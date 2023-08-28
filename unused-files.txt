@@ -1,0 +1,4 @@
+E:\workspace\webpack-plugin\src\a\a.unused.js
+E:\workspace\webpack-plugin\src\unsused.js
+E:\workspace\webpack-plugin\src\unused\1.unused.js
+E:\workspace\webpack-plugin\src\unused\2.unused.js

@@ -1,0 +1,1 @@
+(()=>{"use strict";document.body.appendChild(function(){console.log("component A child.js"),console.log("this is componentA");const n=document.createElement("div");return n.innerHTML=["Hello","webpack"].join(" "),n}())})();
